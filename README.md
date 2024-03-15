@@ -42,6 +42,6 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=widiskel&show_icons=false&theme=tokyonight" alt="Widiskel's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=widiskel&show_icons=true&include_all_commits=true&hide_rank=true&rank_icon=github&theme=tokyonight" alt="Widiskel's GitHub Stats"/>
 </p>
 
