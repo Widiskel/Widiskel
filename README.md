@@ -25,3 +25,13 @@
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,dart,flutter,kotlin,firebase,css,html,java,jquery,laravel,mysql,postgres,mongodb,sqlite,nodejs,rust,solidity,tensorflow,opencv,php,react,tailwind" />
   </a>
 </p>
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widiskel&theme=algolia&layout=compact" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=widiskel&show_icons=true&theme=algolia" alt="Widiskel's GitHub Stats"/>
+</p>
