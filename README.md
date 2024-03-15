@@ -14,13 +14,15 @@
 - <a href="https://widiskel.online" target="_blank">widiskel.online</a>
 
 ### 🤝 Connect with me:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/widianto-eka-saputro-5b7a3b168/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
+  
   <a href="https://instagram.com/widiskelington" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
+  
   <a href="https://x.com/widiskel" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>
