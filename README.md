@@ -27,11 +27,16 @@
 </p>
 
 ### 📊 GitHub Stats:
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widiskel&theme=algolia&layout=compact" alt="Top Langs"/>
+    </p>
+  </div>
+  <div>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=widiskel&show_icons=true&theme=algolia" alt="Widiskel's GitHub Stats"/>
+    </p>
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widiskel&theme=algolia&layout=compact" alt="Top Langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=widiskel&show_icons=true&theme=algolia" alt="Widiskel's GitHub Stats"/>
-</p>
