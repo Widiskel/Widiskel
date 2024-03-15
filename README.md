@@ -18,3 +18,10 @@
   <a href="https://instagram.com/widiskelington" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://x.com/widiskel" target="_blank"><img src="https://img.shields.io/badge/-X-%2312100E?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
+
+### 💻 Languages and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,dart,flutter,kotlin,firebase,css,html,java,jquery,laravel,mysql,postgres,mongodb,sqlite,nodejs,rust,solidity,tensorflow,opencv,php,react,tailwind" />
+  </a>
+</p>
