@@ -37,11 +37,11 @@
 
 ### 📊 Most Used Repository Language
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widiskel&theme=algolia&layout=compact" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widiskel&theme=tokyonight&layout=pie" alt="Top Langs"/>
 </p>
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=widiskel&show_icons=true&theme=algolia" alt="Widiskel's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=widiskel&show_icons=false&theme=tokyonight" alt="Widiskel's GitHub Stats"/>
 </p>
 
