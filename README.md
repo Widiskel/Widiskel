@@ -31,7 +31,7 @@
 ### 💻 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,dart,flutter,kotlin,firebase,css,html,java,jquery,laravel,mysql,postgres,mongodb,sqlite,nodejs,rust,solidity,tensorflow,opencv,php,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,dart,flutter,kotlin,firebase,css,html,java,jquery,laravel,mysql,postgres,mongodb,sqlite,nodejs,ts,vue,react,nextjs,rust,solidity,tensorflow,opencv,php,tailwind,postman,spring," />
   </a>
 </p>
 
