@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo -e "                                                         
-                      ...                                 
+echo -e "\e[1m                                                        
+                      ..                                
                      .;:.                                 
                     .;ol,.                                
                    .;ooc:'                                
@@ -35,7 +35,7 @@ echo -e "
    'OWo  dM0 DkNNXNNd DMD   OWk    aoWd   .                 
    ........................................                 
                                                               
-"
-echo -e "Skel Drop Hunt";
-echo -e "Subscribe Telegram Channel: \e[4;35mhttps://t.me/skeldrophunt";
+\e[0m"
+echo -e "\e[1mSkel Drop Hunt\e[0m";
+echo -e "\e[1mSubscribe Telegram Channel: \e[4;35mhttps://t.me/skeldrophunt\e[0m";
 echo -e ""
