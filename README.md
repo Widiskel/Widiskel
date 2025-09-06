@@ -37,8 +37,7 @@
 
 ### 📊 Most Used Repository Language
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widiskel&theme=tokyonight&layout=pie" alt="Top Langs" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widiskel&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widiskel&theme=tokyonight&layout=pie" alt="Top Langs" width="100%"/>
 </p>
 
 ### 📊 GitHub Stats:
