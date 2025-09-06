@@ -43,5 +43,8 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=widiskel&show_icons=true&include_all_commits=true&hide_rank=false&rank_icon=github&theme=tokyonight" alt="Widiskel's GitHub Stats"/>
+  ## 📈 Contribution Graph
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinzsenzoo&theme=github-dark&hide_border=true" />
 </p>
+
 
