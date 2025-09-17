@@ -11,7 +11,7 @@
 - **waputra16@gmail.com**
 
 ### 🌐 Website:
-- <a href="https://widiskel.online" target="_blank">widiskel.online</a>
+- <a href="https://widiskel.vercel.app" target="_blank">widiskel.vercel.app</a>
 
 ### 🤝 Connect with me:
 <p align="center">
