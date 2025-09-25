@@ -45,6 +45,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=widiskel&show_icons=true&include_all_commits=true&hide_rank=false&rank_icon=github&theme=tokyonight" alt="Widiskel's GitHub Stats" width="45%"/>
 </p>
 
+### Top Contributor Repo
+![](https://github-contributor-stats.vercel.app/api?username=Widiskel&limit=5&theme=dark)
+
 ### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=widiskel&theme=github-dark&hide_border=true" />
