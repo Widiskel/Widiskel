@@ -46,7 +46,10 @@
 </p>
 
 ### Top Contributor Repo
-![](https://github-contributor-stats.vercel.app/api?username=Widiskel&limit=5&theme=dark)
+<p align="center">
+  ![](https://github-contributor-stats.vercel.app/api?username=Widiskel&limit=5&theme=dark)
+</p>
+
 
 ### 📈 Contribution Graph
 <p align="center">
